@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Landrine237
-- 👀 I’m interested in data📊
+- 👀 I’m interested in data management.📊
 - 🌱 I’m currently learning Python & Java for the moment. 
 - 💞️ I’m looking to collaborate on ..(When i'll be ready).
 - 📫 How to reach me landrinen256@gmail.com
-- 😄 Pronouns: "she" doesn't matter😅.
+- 😄 Pronouns: "she" of course😅.
 - ⚡ Fun fact: nothing special🙃.
 
 <!---
