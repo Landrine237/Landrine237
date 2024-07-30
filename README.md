@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Landrine237
 - 👀 I’m interested in data management.📊
-- 🌱 I’m currently learning Python & Java for the moment. 
-- 💞️ I’m looking to collaborate on ..(When i'll be ready).
+- 🌱 I’m currently learning Power bi, EDA with Pyspark, Mysql, Machine Learning, EDA with pandas. 
+- 💞️ I’m looking to collaborate on ...not now👀
 - 📫 How to reach me landrinen256@gmail.com
 - 😄 Pronouns: "she" of course😅.
 - ⚡ Fun fact: nothing special🙃.
